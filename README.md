@@ -143,24 +143,6 @@ A project focused on detecting potholes and applying technology to a real-world 
 🔗 [View my repositories →](https://github.com/Onkar0726?tab=repositories)
 
 ---
-## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Onkar0726">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=Onkar0726&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-      alt="Onkar's GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/Onkar0726">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar0726&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-      alt="Onkar's Top Languages"
-    />
-  </a>
-</p>
 
 ## 🔥 GitHub Streak
 
