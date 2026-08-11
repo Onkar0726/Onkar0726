@@ -114,8 +114,6 @@
 ---
 
 ## 🧠 DSA & Problem Solving
----
-## 🧠 DSA & Problem Solving
 
 <p align="center">
   <img
@@ -129,16 +127,10 @@
     <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
----
+
 Currently practicing:
 
 `Arrays` • `Strings` • `Hashing` • `Binary Search` • `Two Pointers` • `Recursion`
-
-<p align="center">
-  <a href="https://leetcode.com/u/onkar726/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
 
 ---
 
