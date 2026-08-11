@@ -114,12 +114,14 @@
 ---
 
 ## 🧠 DSA & Problem Solving
+---
+
 ## 🧠 LeetCode Journey
 
 <p align="center">
   <a href="https://leetcode.com/u/onkar726/">
     <img
-      src="https://github-readme-leetcode-stats.vercel.app/api/card?username=onkar726&theme=tokyonight&show=profile,solved,streak,heatmap&hide_border=true"
+      src="https://github-readme-leetcode-stats.vercel.app/api/card?username=onkar726&theme=tokyonight"
       alt="Onkar's LeetCode Stats"
     />
   </a>
@@ -127,12 +129,11 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/onkar726/">
-    <img
-      src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-    />
+    <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
+---
 Currently practicing:
 
 `Arrays` • `Strings` • `Hashing` • `Binary Search` • `Two Pointers` • `Recursion`
