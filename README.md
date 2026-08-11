@@ -115,24 +115,20 @@
 
 ## 🧠 DSA & Problem Solving
 ---
-
-## 🧠 LeetCode Journey
+## 🧠 DSA & Problem Solving
 
 <p align="center">
-  <a href="https://leetcode.com/u/onkar726/">
-    <img
-      src="https://github-readme-leetcode-stats.vercel.app/api/card?username=onkar726&theme=tokyonight"
-      alt="Onkar's LeetCode Stats"
-    />
-  </a>
+  <img
+    src="https://github-readme-leetcode-stats-alpha.vercel.app/api/card?theme=tokyonight&border_radius=10&top_skills=8&top_langs=3"
+    alt="Onkar's LeetCode Stats"
+  />
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/onkar726/">
+  <a href="https://leetcode.com/u/onkar726/" target="_blank">
     <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
-
 ---
 Currently practicing:
 
