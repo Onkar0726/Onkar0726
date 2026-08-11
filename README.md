@@ -114,17 +114,23 @@
 ---
 
 ## 🧠 DSA & Problem Solving
+## 🧠 LeetCode Journey
 
 <p align="center">
+  <a href="https://leetcode.com/u/onkar726/">
+    <img
+      src="https://github-readme-leetcode-stats.vercel.app/api/card?username=onkar726&theme=tokyonight&show=profile,solved,streak,heatmap&hide_border=true"
+      alt="Onkar's LeetCode Stats"
+    />
+  </a>
+</p>
 
-<a href="https://leetcode.com/u/onkar726/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-54%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<img src="https://img.shields.io/badge/Java-Primary-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DSA-Active-00C853?style=for-the-badge"/>
-
+<p align="center">
+  <a href="https://leetcode.com/u/onkar726/">
+    <img
+      src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    />
+  </a>
 </p>
 
 Currently practicing:
@@ -171,14 +177,6 @@ A project focused on detecting potholes and applying technology to a real-world 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar0726&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Onkar0726&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
 </p>
 
 ---
