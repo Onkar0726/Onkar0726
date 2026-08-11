@@ -117,7 +117,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-leetcode-stats-alpha.vercel.app/api/card?theme=tokyonight&border_radius=10&top_skills=8&top_langs=3"
+    src="https://github-readme-leetcode-stats-alpha.vercel.app/api/card?username=onkar726&theme=tokyonight&border_radius=10&top_skills=8&top_langs=3"
     alt="Onkar's LeetCode Stats"
   />
 </p>
@@ -178,13 +178,13 @@ A project focused on detecting potholes and applying technology to a real-world 
 
 ## 🚀 Goals
 
-- Strengthen DSA & problem solving
-- Improve Java programming
-- Learn Spring Boot deeply
-- Build REST APIs
-- Improve MySQL & backend development
-- Continue working with Arduino & ESP32
-- Build practical software and embedded projects
+* Strengthen DSA & problem solving
+* Improve Java programming
+* Learn Spring Boot deeply
+* Build REST APIs
+* Improve MySQL & backend development
+* Continue working with Arduino & ESP32
+* Build practical software and embedded projects
 
 ---
 
