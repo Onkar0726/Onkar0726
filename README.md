@@ -140,7 +140,7 @@ Currently practicing:
 
 A project focused on detecting potholes and applying technology to a real-world road safety problem.
 
-🔗 [View my repositories →](https://github.com/Onkar0726?tab=repositories)
+🔗 [View my repositories →](https://github.com/onkar-726?tab=repositories)
 
 ---
 
